@@ -1,0 +1,38 @@
+[
+    {
+        "id": "s001",
+        "serviceTitle": "Ticketing Service",
+        "image": "/src/assets/ticket.jpg",
+        "description": "Comprehensive ticketing services for domestic and international flights, luxury bus services, and exclusive event bookings across Nepal. We handle all your travel arrangements with competitive rates and 24/7 support.",
+        "availability": "Available Year-Round",
+        "serviceLocation": "Domestic and International bookings",
+        "additionalInfo": "Special rates for group bookings, flexible cancellation policies, and instant confirmation services."
+    },
+    {
+        "id": "s002",
+        "serviceTitle": "Adventure Sports",
+        "image": "/src/assets/paraglide.jpg",
+        "description": "Experience the thrill of Pokhara's most exciting adventure sports! We offer paragliding with stunning views of the Annapurna range, bungee jumping , and parachuting for the ultimate adrenaline rush. All activities are conducted by certified professionals with international safety standards.",
+        "availability": "Best Season: September to May",
+        "serviceLocation": "Pokhara (Sarangkot, Lakeside, and surrounding areas)",
+        "additionalInfo": "Includes transportation from Lakeside, safety equipment, professional guides and more"
+    },
+    {
+        "id": "s003",
+        "serviceTitle": "Tourist Information",
+        "image": "/src/assets/tourist.jpg",
+        "description": "Expert guidance on Nepal's hidden gems, cultural experiences, and adventure destinations. Get detailed information about trekking routes, local customs, best seasons to visit, and insider tips for an authentic Nepalese experience.",
+        "availability": "Available Year-Round",
+        "serviceLocation": "Pokhara Office and Online Support",
+        "additionalInfo": "Free consultation services, detailed travel itineraries, and cultural sensitivity training available."
+    },
+    {
+        "id": "s004",
+        "serviceTitle": "Hotels Reservation",
+        "image": "/src/assets/hotel.jpg",
+        "description": "Access to a curated selection of premium hotels, eco-lodges, and traditional guesthouses across Nepal. From luxury accommodations in Kathmandu to authentic mountain lodges in the Himalayas, we ensure the perfect stay for every traveler.",
+        "availability": "Available Year-Round",
+        "serviceLocation": "Nationwide Coverage",
+        "additionalInfo": "Special rates for extended stays, group bookings, and seasonal packages. Includes breakfast and dinner."
+    }
+]

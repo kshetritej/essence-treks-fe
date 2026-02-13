@@ -1,0 +1,196 @@
+{
+    "images": [
+        {
+            "src": "src/assets/ban1.jpeg",
+            "alt": "Banner Image 1 - Majestic Himalayan Landscape",
+            "title": "Himalayan Majesty",
+            "category": "banner"
+        },
+        {
+            "src": "src/assets/ban2.jpeg",
+            "alt": "Banner Image 2 - Scenic Mountain View",
+            "title": "Mountain Vista",
+            "category": "banner"
+        },
+        {
+            "src": "src/assets/ban3.jpeg",
+            "alt": "Banner Image 3 - Beautiful Trekking Trail",
+            "title": "Trekking Paradise",
+            "category": "banner"
+        },
+        {
+            "src": "src/assets/ban4.jpeg",
+            "alt": "Banner Image 4 - Stunning Nepal Landscape",
+            "title": "Nepal's Beauty",
+            "category": "banner"
+        },
+        {
+            "src": "src/assets/WhatsApp Image 2025-03-11 at 06.20.49.webp",
+            "alt": "Nepal Trekking Experience 1",
+            "title": "Mountain Adventure",
+            "category": "trekking"
+        },
+        {
+            "src": "src/assets/WhatsApp Image 2025-03-11 at 06.20.49 (1).webp",
+            "alt": "Nepal Trekking Experience 2",
+            "title": "Himalayan Trail",
+            "category": "trekking"
+        },
+        {
+            "src": "src/assets/WhatsApp Image 2025-03-11 at 06.20.49 (2).webp",
+            "alt": "Nepal Trekking Experience 3",
+            "title": "Scenic Views",
+            "category": "trekking"
+        },
+        {
+            "src": "src/assets/WhatsApp Image 2025-03-11 at 06.20.50.webp",
+            "alt": "Nepal Trekking Experience 4",
+            "title": "Mountain Path",
+            "category": "trekking"
+        },
+        {
+            "src": "src/assets/WhatsApp Image 2025-03-11 at 06.20.50 (1).webp",
+            "alt": "Nepal Trekking Experience 5",
+            "title": "Nature's Beauty",
+            "category": "trekking"
+        },
+        {
+            "src": "src/assets/WhatsApp Image 2025-03-11 at 06.20.51.webp",
+            "alt": "Nepal Trekking Experience 6",
+            "title": "Himalayan Journey",
+            "category": "trekking"
+        },
+        {
+            "src": "src/assets/WhatsApp Image 2025-03-11 at 06.20.52.webp",
+            "alt": "Nepal Trekking Experience 7",
+            "title": "Mountain Majesty",
+            "category": "trekking"
+        },
+        {
+            "src": "src/assets/WhatsApp Image 2025-03-11 at 06.19.48.webp",
+            "alt": "Nepal Trekking Experience 8",
+            "title": "Trekking Trail",
+            "category": "trekking"
+        },
+        {
+            "src": "src/assets/WhatsApp Image 2025-03-11 at 06.19.50.webp",
+            "alt": "Nepal Trekking Experience 9",
+            "title": "Himalayan Vista",
+            "category": "trekking"
+        },
+        {
+            "src": "src/assets/WhatsApp Image 2025-03-11 at 06.20.42.webp",
+            "alt": "Nepal Trekking Experience 10",
+            "title": "Mountain Panorama",
+            "category": "trekking"
+        },
+        {
+            "src": "src/assets/WhatsApp Image 2025-03-11 at 06.20.42 (1).webp",
+            "alt": "Nepal Trekking Experience 11",
+            "title": "Scenic Trek",
+            "category": "trekking"
+        },
+        {
+            "src": "src/assets/WhatsApp Image 2025-03-11 at 06.20.43.webp",
+            "alt": "Nepal Trekking Experience 12",
+            "title": "Himalayan Beauty",
+            "category": "trekking"
+        },
+        {
+            "src": "src/assets/WhatsApp Image 2025-03-11 at 06.20.44.webp",
+            "alt": "Nepal Trekking Experience 13",
+            "title": "Mountain Trail",
+            "category": "trekking"
+        },
+        {
+            "src": "src/assets/WhatsApp Image 2025-03-11 at 06.20.45.webp",
+            "alt": "Nepal Trekking Experience 14",
+            "title": "Nature's Path",
+            "category": "trekking"
+        },
+        {
+            "src": "src/assets/WhatsApp Image 2025-03-11 at 06.20.46.webp",
+            "alt": "Nepal Trekking Experience 15",
+            "title": "Himalayan Trek",
+            "category": "trekking"
+        },
+        {
+            "src": "src/assets/WhatsApp Image 2025-03-11 at 06.20.47.webp",
+            "alt": "Nepal Trekking Experience 16",
+            "title": "Mountain View",
+            "category": "trekking"
+        },
+        {
+            "src": "src/assets/WhatsApp Image 2025-03-11 at 06.20.47 (1).webp",
+            "alt": "Nepal Trekking Experience 17",
+            "title": "Scenic Adventure",
+            "category": "trekking"
+        },
+        {
+            "src": "src/assets/WhatsApp Image 2025-03-11 at 06.20.47 (2).webp",
+            "alt": "Nepal Trekking Experience 18",
+            "title": "Himalayan Experience",
+            "category": "trekking"
+        },
+        {
+            "src": "src/assets/WhatsApp Image 2025-03-11 at 06.17.11.webp",
+            "alt": "Nepal Trekking Experience 19",
+            "title": "Mountain Trail",
+            "category": "trekking"
+        },
+        {
+            "src": "src/assets/WhatsApp Image 2025-03-11 at 06.17.59.webp",
+            "alt": "Nepal Trekking Experience 20",
+            "title": "Nature's Path",
+            "category": "trekking"
+        },
+        {
+            "src": "src/assets/WhatsApp Image 2025-03-11 at 06.18.01.webp",
+            "alt": "Nepal Trekking Experience 21",
+            "title": "Himalayan Trek",
+            "category": "trekking"
+        },
+        {
+            "src": "src/assets/WhatsApp Image 2025-03-11 at 06.18.01 (1).webp",
+            "alt": "Nepal Trekking Experience 22",
+            "title": "Mountain View",
+            "category": "trekking"
+        },
+        {
+            "src": "src/assets/WhatsApp Image 2025-03-11 at 06.18.52.webp",
+            "alt": "Nepal Trekking Experience 23",
+            "title": "Scenic Adventure",
+            "category": "trekking"
+        },
+        {
+            "src": "src/assets/WhatsApp Image 2025-03-11 at 06.19.46.webp",
+            "alt": "Nepal Trekking Experience 24",
+            "title": "Himalayan Experience",
+            "category": "trekking"
+        },
+        {
+            "src": "src/assets/WhatsApp Image 2025-03-11 at 06.19.46 (1).webp",
+            "alt": "Nepal Trekking Experience 25",
+            "title": "Mountain Trail",
+            "category": "trekking"
+        },
+        {
+            "src": "src/assets/WhatsApp Image 2025-03-11 at 06.19.46 (1) (1).webp",
+            "alt": "Nepal Trekking Experience 26",
+            "title": "Nature's Path",
+            "category": "trekking"
+        },
+        {
+            "src": "src/assets/WhatsApp Image 2025-03-11 at 06.19.47.webp",
+            "alt": "Nepal Trekking Experience 27",
+            "title": "Himalayan Trek",
+            "category": "trekking"
+        },
+        {
+            "src": "src/assets/WhatsApp Image 2025-03-11 at 06.19.47 (1).webp",
+            "alt": "Nepal Trekking Experience 28",
+            "title": "Mountain View",
+            "category": "trekking"
+        }
+    ]
+} 
